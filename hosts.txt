@@ -8,7 +8,7 @@ ff00::00 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 
-c1-cp1 192.168.1.72
-c1-node1 192.168.1.97
-c1-node2 192.168.1.98
-c1-node3 192.168.1.101
+192.168.1.72 c1-cp1 
+192.168.1.97 c1-node1 
+192.168.1.98 c1-node2
+192.168.1.101 c1-node3
